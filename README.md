@@ -17,4 +17,5 @@ Este é um repositório de links para tutoriais gratuitos no YouTube que explica
 - **Dev Aprender | Jhonatan de Souza**
   - [Vídeo: Git e GitHub na Prática | Introdução ao Git e GitHub](https://www.youtube.com/watch?v=kB5e-gTAl_s)
 
-Sinta-se à vontade para explorar esses recursos gratuitos e aprender mais sobre Git e GitHub e também siga esses profissionais!
+Sinta-se à vontade para explorar esses recursos gratuitos e aprender mais sobre Git e GitHub e também siga esses profissionais para ficar por dentro das tendecias e novidades da area de Tecnologia
+!
