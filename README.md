@@ -1,6 +1,6 @@
 # Tutoriais Gratuitos de Git e GitHub
 
-Este é um repositório de links para tutoriais gratuitos no YouTube que explicam conceitos, importância e história do Git e GitHub.
+Este é um repositório de links para tutoriais gratuitos no YouTube que explicam conceitos, importância, história do Git e GitHub e comandos em Git
 
 - **Código Fonte**
   - [Vídeo: O que é Git e GitHub? | Curso de Git e GitHub para Iniciantes](https://www.youtube.com/watch?v=ts-H3W1uLMM)
